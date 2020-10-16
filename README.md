@@ -6,3 +6,7 @@ this chat bot perform the following task
 4. Close the Application
 5. Any website open
 6. Any Application also open 
+
+Following are some screenshots
+#Screenshots
+![](images/Command Prompt 9_29_2020 4_31_41 PM.png)
