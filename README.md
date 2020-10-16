@@ -9,4 +9,4 @@ this chat bot perform the following task
 
 Following are some screenshots
 #Screenshots
-![](images/Command Prompt 9_29_2020 4_31_41 PM.png)
+![](images/output.png)
