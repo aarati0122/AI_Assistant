@@ -1,5 +1,3 @@
-# myprojects
-
 This Project is based on Voice assistant command line
 this chat bot perform the following task
 1. Os launch in Docker container in sever side
