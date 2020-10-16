@@ -9,11 +9,11 @@ this chat bot perform the following task
 
 Following are some screenshots
 #Screenshots
-![](images/CommandPrompt.png)
-![](images/LaunchOSdocker.png)
-![](images/Outputoflaunchos.png)
-![](images/Outpuofimagedocker.png)
-![](images/lsUI.png)
-![](images/RunbasicLinuxcommand.png)
-![](images/Outputdatecommand.png)
+![](image/CommandPrompt.png)
+![](image/LaunchOSdocker.png)
+![](image/Outputoflaunchos.png)
+![](image/Outpuofimagedocker.png)
+![](image/lsUI.png)
+![](image/RunbasicLinuxcommand.png)
+![](image/Outputdatecommand.png)
 
